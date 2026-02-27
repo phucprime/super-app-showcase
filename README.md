@@ -370,7 +370,7 @@ Super App showcase is an open source project and will always remain free to use.
 
 ## Được tạo với ❤️ tại Callstack
 
-Super App showcase là một dự án mã nguồn mở và sẽ luôn miễn phí để sử dụng. Nếu bạn thấy hay, hãy star ⭐ nhé. [Callstack][callstack-readme-with-love] là một nhóm những người đam mê React và React Native, liên hệ chúng tôi tại [hello@callstack.com](mailto:hello@callstack.com) nếu bạn cần hỗ trợ hoặc chỉ muốn chào hỏi!
+Super App showcase là một dự án mã nguồn mở và sẽ luôn miễn phí để sử dụng. Nếu bạn thấy hay, hãy star 🌟 nhé. [Callstack][callstack-readme-with-love] là một nhóm những người đam mê React và React Native, liên hệ chúng tôi tại [hello@callstack.com](mailto:hello@callstack.com) nếu bạn cần hỗ trợ hoặc chỉ muốn chào hỏi!
 
 </td>
 </tr>
